@@ -7,14 +7,13 @@
 - 🌱 I'm currently learning everything 🤣.
 - 👯 I'm looking to collaborate with other creators of 
     content
-- 🥅 2020 goals: keep learning and improving.
+- 🥅 2021 goals: keep learning and improving.
 - ⚡ Fun fact: I love riding my bike and 
     getting lost in the Alps
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
