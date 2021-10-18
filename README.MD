@@ -35,5 +35,7 @@
 
 
 ---
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [webdevplaylist]: https://www.youtube.com/playlist?
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-ram%C3%B3n-grande-b5b316193
